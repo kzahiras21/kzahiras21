@@ -6,7 +6,7 @@ I am a final-year Informatics student specializing in Artificial Intelligence at
 
 - 🎓 **Education:** Informatics (AI specialization) at President University | Exchange Program at INTI International University, Malaysia.
 - 🌱 **Currently exploring:** Advanced Data Science, NLP, and bridging physical-virtual environments (VR-IoT).
-- 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/khashia-zahira-suharlan/) or reach out via email!
+- 📫 **How to reach me:** Let's connect on [LinkedIn]([https://www.linkedin.com/in/khashia-zahira-suharlan/]) or reach out via email!
 
 ### 🛠️ Tech Stack & Tools
 
